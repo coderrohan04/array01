@@ -1,0 +1,9 @@
+this is my linux file that i am 
+use to track with the help of git which i thought easy but 
+not for evey time
+1 apple
+2 mango 
+3 banana
+4 pineapple
+5 grapes
+6 laddu
